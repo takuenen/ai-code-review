@@ -1,0 +1,18 @@
+# .envファイル（APIキーやパスワードなどの機密情報）はアップロードしない
+.env
+
+# Python のキャッシュファイル
+__pycache__/
+*.py[cod]
+*.pyo
+
+# 実行時に生成されるデータベースや一時フォルダ
+chroma_db/
+data/
+
+# ログファイル
+*.log
+
+# OSによる不要なファイル
+.DS_Store
+Thumbs.db
