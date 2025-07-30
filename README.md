@@ -1,5 +1,10 @@
 # CodeSensei AI コードレビュー支援ツール（日本語）
 
+📘 [🌐 English README is available here](./README_EN.md)
+
+AIがコードの問題を発見し、品質を向上させます！
+
+
 AIがコードの問題を発見し、品質を向上させます！  
 Python と Java をサポートし、LangChain + Azure OpenAI を組み合わせて構築されています。
 
